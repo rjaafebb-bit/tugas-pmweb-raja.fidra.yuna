@@ -1,0 +1,2 @@
+Nama: Raja
+Tugas: Kontribusi anggota kelompok pada repository Git.
